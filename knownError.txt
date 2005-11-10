@@ -1,0 +1,12 @@
+This was a board combination I knew I had problems with, at some point
+
+1 13
+1 16 60.0
+2 2 60.0
+.1...1.
+.1.....
+..2....
+...1..2
+2......
+2.....2
+.1...1.
